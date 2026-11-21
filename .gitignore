@@ -37,3 +37,10 @@ ENV/
 scratch/
 *.tmp
 *.log
+
+# Course Reference & Rubrics (Keep local, ignore from git)
+BBF 302E - Project Guidelines - Fall 2026_v4.pdf
+BBF302E_ProjectRubric.pdf
+ProposalRubric_M1_Revised.pdf
+BBF302E_Milestone2_Template.docx
+odevtanim.png
